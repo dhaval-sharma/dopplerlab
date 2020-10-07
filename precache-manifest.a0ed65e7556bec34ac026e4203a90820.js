@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f14a249fff9db8e6da4c27278ab37ba",
+    "revision": "a4fc7367996b1a080cd2f2972e88a46a",
     "url": "/dopplerlab/index.html"
   },
   {
-    "revision": "238077403d92a6b63e5e",
+    "revision": "ce121adadfc2243bf2a5",
     "url": "/dopplerlab/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "f134fd7ea9ca69bc4347",
+    "revision": "c146ed4aabe12894fc49",
     "url": "/dopplerlab/static/css/main.839c30bd.chunk.css"
   },
   {
-    "revision": "238077403d92a6b63e5e",
-    "url": "/dopplerlab/static/js/2.ef0fa18c.chunk.js"
+    "revision": "ce121adadfc2243bf2a5",
+    "url": "/dopplerlab/static/js/2.3024982d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/dopplerlab/static/js/2.ef0fa18c.chunk.js.LICENSE.txt"
+    "url": "/dopplerlab/static/js/2.3024982d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f134fd7ea9ca69bc4347",
-    "url": "/dopplerlab/static/js/main.03c64477.chunk.js"
+    "revision": "c146ed4aabe12894fc49",
+    "url": "/dopplerlab/static/js/main.18983b4e.chunk.js"
   },
   {
     "revision": "a2546e665f35ffc22ece",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6ed9bb01e86a68ce936942d72ab87c1c",
     "url": "/dopplerlab/static/media/activity.6ed9bb01.svg"
+  },
+  {
+    "revision": "6d1706da57c08f0e347c222e1c2e4cc3",
+    "url": "/dopplerlab/static/media/assessment.6d1706da.svg"
   },
   {
     "revision": "42b86989416d01683ba187f216ac0615",

@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/dopplerlab/static/css/main.839c30bd.chunk.css",
-    "main.js": "/dopplerlab/static/js/main.03c64477.chunk.js",
-    "main.js.map": "/dopplerlab/static/js/main.03c64477.chunk.js.map",
+    "main.js": "/dopplerlab/static/js/main.18983b4e.chunk.js",
+    "main.js.map": "/dopplerlab/static/js/main.18983b4e.chunk.js.map",
     "runtime-main.js": "/dopplerlab/static/js/runtime-main.a44ebb31.js",
     "runtime-main.js.map": "/dopplerlab/static/js/runtime-main.a44ebb31.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/dopplerlab/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.ef0fa18c.chunk.js": "/dopplerlab/static/js/2.ef0fa18c.chunk.js",
-    "static/js/2.ef0fa18c.chunk.js.map": "/dopplerlab/static/js/2.ef0fa18c.chunk.js.map",
+    "static/js/2.3024982d.chunk.js": "/dopplerlab/static/js/2.3024982d.chunk.js",
+    "static/js/2.3024982d.chunk.js.map": "/dopplerlab/static/js/2.3024982d.chunk.js.map",
     "index.html": "/dopplerlab/index.html",
-    "precache-manifest.9ca3edb1f0c738619f8da8d984e55df5.js": "/dopplerlab/precache-manifest.9ca3edb1f0c738619f8da8d984e55df5.js",
+    "precache-manifest.a0ed65e7556bec34ac026e4203a90820.js": "/dopplerlab/precache-manifest.a0ed65e7556bec34ac026e4203a90820.js",
     "service-worker.js": "/dopplerlab/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/dopplerlab/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.839c30bd.chunk.css.map": "/dopplerlab/static/css/main.839c30bd.chunk.css.map",
-    "static/js/2.ef0fa18c.chunk.js.LICENSE.txt": "/dopplerlab/static/js/2.ef0fa18c.chunk.js.LICENSE.txt",
+    "static/js/2.3024982d.chunk.js.LICENSE.txt": "/dopplerlab/static/js/2.3024982d.chunk.js.LICENSE.txt",
     "static/media/activity.svg": "/dopplerlab/static/media/activity.6ed9bb01.svg",
+    "static/media/assessment.svg": "/dopplerlab/static/media/assessment.6d1706da.svg",
     "static/media/index.css": "/dopplerlab/static/media/velocity.d668df6d.jpg",
     "static/media/book.png": "/dopplerlab/static/media/book.8673a3f7.png",
     "static/media/bookmark.svg": "/dopplerlab/static/media/bookmark.c3e670aa.svg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.a44ebb31.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.ef0fa18c.chunk.js",
+    "static/js/2.3024982d.chunk.js",
     "static/css/main.839c30bd.chunk.css",
-    "static/js/main.03c64477.chunk.js"
+    "static/js/main.18983b4e.chunk.js"
   ]
 }
