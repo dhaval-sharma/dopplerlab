@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dopplerlab/static/css/main.839c30bd.chunk.css",
+    "main.css": "/dopplerlab/static/css/main.8ba10fdb.chunk.css",
     "main.js": "/dopplerlab/static/js/main.62ec809e.chunk.js",
     "main.js.map": "/dopplerlab/static/js/main.62ec809e.chunk.js.map",
     "runtime-main.js": "/dopplerlab/static/js/runtime-main.a44ebb31.js",
@@ -9,10 +9,10 @@
     "static/js/2.3024982d.chunk.js": "/dopplerlab/static/js/2.3024982d.chunk.js",
     "static/js/2.3024982d.chunk.js.map": "/dopplerlab/static/js/2.3024982d.chunk.js.map",
     "index.html": "/dopplerlab/index.html",
-    "precache-manifest.d6b142ff865767c7960d8102ddf3d89c.js": "/dopplerlab/precache-manifest.d6b142ff865767c7960d8102ddf3d89c.js",
+    "precache-manifest.fbc649203d66020d9aff26121a3fb507.js": "/dopplerlab/precache-manifest.fbc649203d66020d9aff26121a3fb507.js",
     "service-worker.js": "/dopplerlab/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/dopplerlab/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.839c30bd.chunk.css.map": "/dopplerlab/static/css/main.839c30bd.chunk.css.map",
+    "static/css/main.8ba10fdb.chunk.css.map": "/dopplerlab/static/css/main.8ba10fdb.chunk.css.map",
     "static/js/2.3024982d.chunk.js.LICENSE.txt": "/dopplerlab/static/js/2.3024982d.chunk.js.LICENSE.txt",
     "static/media/activity.svg": "/dopplerlab/static/media/activity.6ed9bb01.svg",
     "static/media/assessment.svg": "/dopplerlab/static/media/assessment.6d1706da.svg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.a44ebb31.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.3024982d.chunk.js",
-    "static/css/main.839c30bd.chunk.css",
+    "static/css/main.8ba10fdb.chunk.css",
     "static/js/main.62ec809e.chunk.js"
   ]
 }
