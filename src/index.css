@@ -1,13 +1,258 @@
+html{
+  height: 100%;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, 'Poppins', 'Bebas Neue', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0D0D0D;
+  color: #B7B5B6;
+  height: 100%;
+  padding: 0;
+  overflow-x: hidden;
+  background: url('./assets/images/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#root{
+  height: 100%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1 {
+  font-family: Bebas Neue;
+}
+
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.container-fluid{
+  height: 100vh;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.right-block {
+  background: #09090B;
+  height: 100%;
+  padding: 25px;
+  overflow: auto;
+}
+
+.right-block p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #b5b4b4;
+}
+
+
+.left-panel {
+  background: #0D0D0D;
+  height: 700px;
+  padding:0px;
+}
+
+.right-panel{
+  padding:0px;
+  position: relative;
+}
+
+.book_area {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book_area img {
+  position: absolute;
+  bottom: 0px;
+  width: 75%;
+}
+
+.logo {
+  border-bottom: 1px solid #282828;
+  width: 100%;
+  padding:20px 0px
+}
+.tabs-section {
+  margin: 20px 0;
+  top:2%;
+  position: relative;
+}
+
+.tab-icons{
+  width: 30px;
+}
+
+.header {
+  background-color: #0D0D0D;
+  color: #B7B5B6;
+  height: 50px;
+}
+
+/* Examples CSS */
+.examples {
+  background-color: #1c1c1d;
+  padding: 20px;
+}
+.examples-heading {
+  padding: 10px 20px ;
+  font-family: Bebas Neue;
+}
+
+.example-item {
+  width: 90%;
+  background: #121313;
+  border: solid 1px #B7B5B6;
+  margin-bottom: 10px;
+}
+
+.active {
+  border: solid 1px #007fa3;
+}
+
+.example-item img{
+  width: 100%;
+}
+
+.exmaple-preview :first-child{
+  width: 95%;
+  background: black;
+}
+
+/* Activities css */
+
+.activites {
+  padding:20px;
+  width: 100%;
+  background-color: #1c1c1d;
+}
+
+.activites_content {
+  padding:20px;
+  background-image: url('./assets/images/velocity.jpg');
+  width: 100%;
+  height: inherit;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Questions css */
+
+.assessment {
+  padding:20px;
+  width: 100%;
+  background-color: #1c1c1d;
+}
+
+.assessment_content {
+  padding:20px;
+  background-image: url('./assets/images/velocity.jpg');
+  width: 100%;
+  height: inherit;
+  position: relative;
+
+}
+
+.question_options {
+  padding: 25px;
+}
+
+.question_options  li{
+  padding: 10px;
+}
+
+.selected {
+  color: #007fa3;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.answer_area {
+  padding: 10px;
+  font-size: 20px;
+}
+
+/* Notes CSS */
+.notes {
+  position: absolute;
+  height: calc(100% - 55px);
+  width: 300px;
+  background-color: #0c0d0d;
+  z-index: 2;
+  right: 0;
+  padding:15px;
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.hide-note {
+  -webkit-transform: translateX(100%);
+  -moz-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  -o-transform: translateX(100%);
+  transform: translateX(100%);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.note-content {
+  padding: 10px;
+}
+.note-content:before{
+  content: '';
+  width: 0;
+  height: 100%;
+  position: absolute;
+  border: 1px solid #e5e282;
+  top: 0;
+  left: 0;
+}
+
+.add-note {
+  padding-left: 10px;
+}
+
+.add-note:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* Header CSS*/
+.float-right {
+  display: flex;
+  padding-right: 50px
+}
+
+.float-right img {
+  width: 25px;
+  margin-left: 15px;
 }
